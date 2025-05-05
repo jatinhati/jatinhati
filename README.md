@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jatinhati
 - 👀 I’m interested in ... coding and ai
-- 🌱 I’m currently learning ...JAVA and Python
+- 🌱 I’m currently learning ...MERN
 - 💞️ I’m looking to collaborate on ... on coding and internship,oriented people
 - 📫 How to reach me ... jatinhati851@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...ambitious developer
 - ⚡ Fun fact: ... rather than coding gamer is my nickname
 
 <!---
