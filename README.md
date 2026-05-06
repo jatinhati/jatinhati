@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jatin%20Hati&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Engineer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18&color=gradient" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jatin%20Hati&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Engineer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18&color=gradient&customColorList=0,2,2,5,30" 
   width="100%" 
 />
 
