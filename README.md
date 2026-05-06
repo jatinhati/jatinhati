@@ -15,7 +15,6 @@
 
 </div>
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -83,6 +82,45 @@ public class JatinHati {
 
 ---
 
+## 💼 Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Kartbuddy &nbsp;•&nbsp; `May 2025 – Aug 2025`
+**Software Developer Intern** &nbsp;|&nbsp; Mumbai
+
+- ⚡ Engineered **15+ RESTful APIs** with Spring Boot & JPA, reducing latency **600ms → 420ms** via query optimization & indexing
+- 🎨 Built **10+ responsive React.js** components with lazy loading & code splitting — cut page load time by **25%**
+- 🔄 Contributed across full SDLC in an **Agile/Scrum** environment
+
+**Tech Stack:**<br/>
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA/Hibernate" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React.js" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Chargeworks &nbsp;•&nbsp; `Jan 2025 – Mar 2025`
+**Backend Developer Intern** &nbsp;|&nbsp; Kolkata
+
+- 🛡️ Resolved **70%+ production incidents** within SLA via log inspection & global exception handling, cutting runtime errors by **30%**
+- 📋 Standardized request/response contracts & HTTP status codes across **10+ APIs**, reducing client-side integration issues by **25%**
+
+**Tech Stack:**<br/>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+<img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=openapiinitiative&logoColor=white" alt="REST API" />
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -143,46 +181,6 @@ public class JatinHati {
 
 </td>
 <td width="50%" valign="top">
-## 💼 Experience
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
----
-### 🏢 Kartbuddy &nbsp;•&nbsp; `May 2025 – Aug 2025`
-**Software Developer Intern** &nbsp;|&nbsp; Mumbai
-
-- ⚡ Engineered **15+ RESTful APIs** with Spring Boot & JPA, reducing latency **600ms → 420ms** via query optimization & indexing
-- 🎨 Built **10+ responsive React.js** components with lazy loading & code splitting — cut page load time by **25%**
-- 🔄 Contributed across full SDLC in an **Agile/Scrum** environment
-
-**Tech Stack:**<br/>
-<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA/Hibernate" />
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React.js" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 Chargeworks &nbsp;•&nbsp; `Jan 2025 – Mar 2025`
-**Backend Developer Intern** &nbsp;|&nbsp; Kolkata
-
-- 🛡️ Resolved **70%+ production incidents** within SLA via log inspection & global exception handling, cutting runtime errors by **30%**
-- 📋 Standardized request/response contracts & HTTP status codes across **10+ APIs**, reducing client-side integration issues by **25%**
-
-**Tech Stack:**<br/>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-<img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=openapiinitiative&logoColor=white" alt="REST API" />
-
-</td>
-</tr>
-</table>
-
----
-
 
 ### 🧠 DSA & Competitive Programming
 
