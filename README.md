@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jatin%20Hati&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20DevOps%20Explorer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jatin%20Hati&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Engineer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Jatin+Hati+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+AI+Developer;DevOps+Explorer+%F0%9F%9A%80;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=720&lines=Hey!+I%27m+Jatin+Hati+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Java+%26+React;Spring+Boot+%7C+Microservices+%7C+Kafka;AWS+%7C+Docker+%7C+Kubernetes;300%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;Open+to+SDE+Roles+%26+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![Email](https://img.shields.io/badge/jatinhati851%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jatinhati851@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jatin69-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin69)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-jatinhati-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=jatinhati&color=6AD3F7&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -14,11 +20,13 @@
 public class JatinHati {
 
     String name        = "Jatin Hati";
+    String role        = "Full-Stack Software Engineer";
     String location    = "India 🇮🇳";
-    String[] learning  = {"Spring Boot", "AI/ML Integration", "DevOps"};
-    String[] interests = {"Backend Development", "AI", "Open Source", "Gaming 🎮"};
+    String education   = "B.Tech CSE @ Future Institute of Technology (GPA: 7.5/10) — 2026";
+    String[] skills    = {"Java", "Spring Boot", "React.js", "Microservices", "Cloud & DevOps"};
+    String[] seeking   = {"SDE Roles", "Internships", "Collaborations"};
     String email       = "jatinhati851@gmail.com";
-    String status      = "Open to Internships & Collaborations 🚀";
+    int    leetcode    = 300; // problems solved 🧠
 
     public String motto() {
         return "Build. Break. Learn. Repeat. 🔁";
@@ -28,35 +36,128 @@ public class JatinHati {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💼 Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Kartbuddy &nbsp;•&nbsp; `May 2025 – Aug 2025`
+**Software Developer Intern** &nbsp;|&nbsp; Mumbai
+
+- ⚡ Engineered **15+ RESTful APIs** with Spring Boot & JPA, reducing latency **600ms → 420ms** via query optimization & indexing
+- 🎨 Built **10+ responsive React.js** components with lazy loading & code splitting — cut page load time by **25%**
+- 🔄 Contributed across full SDLC in an **Agile/Scrum** environment
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Chargeworks &nbsp;•&nbsp; `Jan 2025 – Mar 2025`
+**Backend Developer Intern** &nbsp;|&nbsp; Kolkata
+
+- 🛡️ Resolved **70%+ production incidents** within SLA via log inspection & global exception handling, cutting runtime errors by **30%**
+- 📋 Standardized request/response contracts & HTTP status codes across **10+ APIs**, reducing client-side integration issues by **25%**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏋️ FitForge — AI-Powered Fitness Platform
+> `Spring Boot` · `Kafka` · `WebFlux` · `React + Redux` · `Keycloak OAuth2` · `PostgreSQL` · `MongoDB`
+
+- Architected a **5-service microservices** platform with Eureka, Spring Cloud Gateway & Config Server
+- Implemented **Kafka event pipeline** from activity-service to AI-service for LLM-based personalized workout recommendations
+- Secured with **Keycloak OAuth2/OpenID** across all services
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ RateSentry — Distributed Rate Limiting Service
+> `Spring Boot` · `Redis (Lettuce)` · `Bucket4j` · `Spring Security`
+
+- Built **per-client HTTP rate limiter** using Bucket4j Token Bucket algorithm backed by Redis via Lettuce
+- Integrated **Spring Security filter chain** to intercept pre-controller traffic and reject excess requests with **429 Too Many Requests**
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 RideFlow — Ride-Hailing Microservices Backend
+> `Spring Boot` · `JWT` · `Redis Geospatial` · `Flyway` · `Gradle` · `Eureka`
+
+- Architected a **6-service backend** (auth, entity, booking, location, review, service-discovery)
+- Implemented **Redis geospatial indexing** with `GeoOperations` & `RedisGeoCommands` for nearest-driver lookup in **O(log N)**
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 DSA & Competitive Programming
+> `LeetCode` · `HackerRank`
+
+- Solved **300+ problems** on LeetCode — Arrays, Two Pointers, Hash Tables, Binary Search, DP & Backtracking with focus on optimal time & space complexity
+- **HackerRank Software Engineer Certificate** (2025) — validated proficiency in problem-solving, SQL & REST API development
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+**Backend**
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frameworks & Libraries**
-
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring%20AI-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -66,24 +167,27 @@ public class JatinHati {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jatinhati&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jatinhati&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinhati&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinhati&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=jatinhati&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🚀 Currently Working On
+## 🎓 Education & Certifications
 
-- 🔭 Building **Spring Boot + AI** applications
-- ☁️ Exploring **DevOps** practices — Docker, CI/CD pipelines
-- 🤖 Integrating **AI/ML** into backend services
-- 🌱 Deepening knowledge in **Cloud & Microservices**
+| 🏫 Institution | 🎓 Degree | 📅 Year | 📍 Location |
+|---|---|---|---|
+| Future Institute of Technology | B.Tech — Computer Science & Engineering (GPA: 7.5 / 10) | June 2026 | Kolkata, India |
+
+**Certifications**
+- 🏆 **HackerRank Software Engineer Certificate** (2025) — Problem Solving, SQL & REST API Development
+- 🧠 **LeetCode** — 300+ problems solved across Arrays, DP, Graphs, Binary Search & Backtracking
 
 ---
 
@@ -91,26 +195,18 @@ public class JatinHati {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinhati851@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatinhati)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatinhati)
+[![Email](https://img.shields.io/badge/Email-jatinhati851%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinhati851@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jatin69-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin69)
+[![GitHub](https://img.shields.io/badge/GitHub-jatinhati-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatinhati)
 
-💼 **Open to Internships, Freelance, and Collaborations!**
+💼 **Open to SDE Roles, Internships & Collaborations!**
 
 </div>
-
----
-
-## ⚡ Fun Fact
-
-> 🎮 My friends call me a **gamer** — but I bring the same competitive energy to coding!
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=jatinhati&color=6AD3F7&style=for-the-badge&label=Profile+Views)
 
 </div>
