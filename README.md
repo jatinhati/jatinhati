@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jatin%20Hati&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Engineer%20|%20Spring%20Boot%20|%20React%20|%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18&color=gradient" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jatin%20Hati&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Engineer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18&color=gradient" 
   width="100%" 
 />
 
@@ -52,6 +52,12 @@ public class JatinHati {
 - 🎨 Built **10+ responsive React.js** components with lazy loading & code splitting — cut page load time by **25%**
 - 🔄 Contributed across full SDLC in an **Agile/Scrum** environment
 
+**Tech Stack:**<br/>
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA/Hibernate" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React.js" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+
 </td>
 <td width="50%" valign="top">
 
@@ -60,6 +66,12 @@ public class JatinHati {
 
 - 🛡️ Resolved **70%+ production incidents** within SLA via log inspection & global exception handling, cutting runtime errors by **30%**
 - 📋 Standardized request/response contracts & HTTP status codes across **10+ APIs**, reducing client-side integration issues by **25%**
+
+**Tech Stack:**<br/>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+<img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=openapiinitiative&logoColor=white" alt="REST API" />
 
 </td>
 </tr>
@@ -74,7 +86,15 @@ public class JatinHati {
 <td width="50%" valign="top">
 
 ### 🏋️ FitForge — AI-Powered Fitness Platform
-> `Spring Boot` · `Kafka` · `WebFlux` · `React + Redux` · `Keycloak OAuth2` · `PostgreSQL` · `MongoDB`
+
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+<img src="https://img.shields.io/badge/WebFlux-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" alt="WebFlux" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak OAuth2" />
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 
 - Architected a **5-service microservices** platform with Eureka, Spring Cloud Gateway & Config Server
 - Implemented **Kafka event pipeline** from activity-service to AI-service for LLM-based personalized workout recommendations
@@ -86,7 +106,11 @@ public class JatinHati {
 <td width="50%" valign="top">
 
 ### ⚡ RateSentry — Distributed Rate Limiting Service
-> `Spring Boot` · `Redis (Lettuce)` · `Bucket4j` · `Spring Security`
+
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis (Lettuce)" />
+<img src="https://img.shields.io/badge/Bucket4j-59666C?style=flat-square&logo=java&logoColor=white" alt="Bucket4j" />
+<img src="https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
 
 - Built **per-client HTTP rate limiter** using Bucket4j Token Bucket algorithm backed by Redis via Lettuce
 - Integrated **Spring Security filter chain** to intercept pre-controller traffic and reject excess requests with **429 Too Many Requests**
@@ -99,7 +123,13 @@ public class JatinHati {
 <td width="50%" valign="top">
 
 ### 🚗 RideFlow — Ride-Hailing Microservices Backend
-> `Spring Boot` · `JWT` · `Redis Geospatial` · `Flyway` · `Gradle` · `Eureka`
+
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis Geospatial" />
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
+<img src="https://img.shields.io/badge/Eureka-59666C?style=flat-square&logo=spring&logoColor=white" alt="Eureka" />
 
 - Architected a **6-service backend** (auth, entity, booking, location, review, service-discovery)
 - Implemented **Redis geospatial indexing** with `GeoOperations` & `RedisGeoCommands` for nearest-driver lookup in **O(log N)**
@@ -110,7 +140,9 @@ public class JatinHati {
 <td width="50%" valign="top">
 
 ### 🧠 DSA & Competitive Programming
-> `LeetCode` · `HackerRank`
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
 
 - Solved **300+ problems** on LeetCode — Arrays, Two Pointers, Hash Tables, Binary Search, DP & Backtracking with focus on optimal time & space complexity
 - **HackerRank Software Engineer Certificate** (2025) — validated proficiency in problem-solving, SQL & REST API development
@@ -170,9 +202,9 @@ public class JatinHati {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jatinhati&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jatinhati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" height="170" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinhati&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinhati&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&size_weight=0.5&count_weight=0.5&cache_seconds=3600" height="170" alt="Top Languages" />
 
 <br/>
 
