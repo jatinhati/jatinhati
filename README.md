@@ -15,27 +15,6 @@
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-```java
-public class JatinHati {
-
-    String name        = "Jatin Hati";
-    String role        = "Full-Stack Software Engineer";
-    String location    = "India 🇮🇳";
-    String education   = "B.Tech CSE @ Future Institute of Technology (GPA: 7.5/10) — 2026";
-    String[] skills    = {"Java", "Spring Boot", "React.js", "Microservices", "Cloud & DevOps"};
-    String[] seeking   = {"SDE Roles", "Internships", "Collaborations"};
-    String email       = "jatinhati851@gmail.com";
-    int    leetcode    = 300; // problems solved 🧠
-
-    public String motto() {
-        return "Build. Break. Learn. Repeat. 🔁";
-    }
-}
-```
 
 ---
 
@@ -81,6 +60,28 @@ public class JatinHati {
 </div>
 
 ---
+---
+
+## 🧑‍💻 About Me
+
+```java
+public class JatinHati {
+
+    String name        = "Jatin Hati";
+    String role        = "Full-Stack Software Engineer";
+    String location    = "India 🇮🇳";
+    String education   = "B.Tech CSE @ Future Institute of Technology (GPA: 7.5/10) — 2026";
+    String[] skills    = {"Java", "Spring Boot", "React.js", "Microservices", "Cloud & DevOps"};
+    String[] seeking   = {"SDE Roles", "Internships", "Collaborations"};
+    String email       = "jatinhati851@gmail.com";
+    int    leetcode    = 300; // problems solved 🧠
+
+    public String motto() {
+        return "Build. Break. Learn. Repeat. 🔁";
+    }
+}
+```
+
 ---
 
 ## 💼 Experience
