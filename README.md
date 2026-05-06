@@ -202,13 +202,13 @@ public class JatinHati {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jatinhati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jatinhati43&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinhati&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&size_weight=0.5&count_weight=0.5&cache_seconds=3600" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinhati43&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=jatinhati&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=jatinhati43&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
