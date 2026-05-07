@@ -103,7 +103,7 @@ public class JatinHati {
 - Implemented **Kafka event pipeline** from activity-service to AI-service for LLM-based personalized workout recommendations
 - Secured with **Keycloak OAuth2/OpenID** across all services
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati/FitForge_MicroService_Springboot)
 
 </td>
 <td width="50%" valign="top">
@@ -118,7 +118,7 @@ public class JatinHati {
 - Built **per-client HTTP rate limiter** using Bucket4j Token Bucket algorithm backed by Redis via Lettuce
 - Integrated **Spring Security filter chain** to intercept pre-controller traffic and reject excess requests with **429 Too Many Requests**
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati/RateLimiter_SpringBoot)
 
 </td>
 </tr>
@@ -137,7 +137,7 @@ public class JatinHati {
 - Architected a **6-service backend** (auth, entity, booking, location, review, service-discovery)
 - Implemented **Redis geospatial indexing** with `GeoOperations` & `RedisGeoCommands` for nearest-driver lookup in **O(log N)**
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati/RideFlow_Backend-Microservice)
 
 </td>
 <td width="50%" valign="top">
@@ -151,6 +151,40 @@ public class JatinHati {
 - **HackerRank Software Engineer Certificate** (2025) — validated proficiency in problem-solving, SQL & REST API development
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 MoneyMate — AI-Powered Finance Management App
+
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+
+- Full-stack **personal finance management** app with expense/income tracking and interactive **Recharts** visualizations
+- Built with **Spring Boot REST API** + **JWT authentication**, email notifications, and scheduled daily reminders
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati/MoneyMate)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 snip.link — URL Shortener
+
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+
+- Full-stack **URL shortener** — turns any long URL into a compact 8-character link with instant redirect
+- Built with **React + TypeScript** (Tailwind CSS v4) frontend and **Spring Boot + PostgreSQL** backend with automatic deduplication
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati/snip.link)
 
 </td>
 </tr>
