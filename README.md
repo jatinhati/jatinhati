@@ -125,38 +125,6 @@ public class JatinHati {
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 RideFlow — Ride-Hailing Microservices Backend
-
-<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis Geospatial" />
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
-<img src="https://img.shields.io/badge/Eureka-59666C?style=flat-square&logo=spring&logoColor=white" alt="Eureka" />
-
-- Architected a **6-service backend** (auth, entity, booking, location, review, service-discovery)
-- Implemented **Redis geospatial indexing** with `GeoOperations` & `RedisGeoCommands` for nearest-driver lookup in **O(log N)**
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 DSA & Competitive Programming
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
-
-- Solved **300+ problems** on LeetCode — Arrays, Two Pointers, Hash Tables, Binary Search, DP & Backtracking with focus on optimal time & space complexity
-- **HackerRank Software Engineer Certificate** (2025) — validated proficiency in problem-solving, SQL & REST API development
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🤖 PromptOps — AI DevOps Assistant
 
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -186,6 +154,38 @@ public class JatinHati {
 - Built a **React + Vite** frontend with real-time market charts and state management
 
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati/TradingSystem)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 RideFlow — Ride-Hailing Microservices Backend
+
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis Geospatial" />
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
+<img src="https://img.shields.io/badge/Eureka-59666C?style=flat-square&logo=spring&logoColor=white" alt="Eureka" />
+
+- Architected a **6-service backend** (auth, entity, booking, location, review, service-discovery)
+- Implemented **Redis geospatial indexing** with `GeoOperations` & `RedisGeoCommands` for nearest-driver lookup in **O(log N)**
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 DSA & Competitive Programming
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
+
+- Solved **300+ problems** on LeetCode — Arrays, Two Pointers, Hash Tables, Binary Search, DP & Backtracking with focus on optimal time & space complexity
+- **HackerRank Software Engineer Certificate** (2025) — validated proficiency in problem-solving, SQL & REST API development
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
 
 </td>
 </tr>
