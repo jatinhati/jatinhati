@@ -108,17 +108,17 @@ public class JatinHati {
 </td>
 <td width="50%" valign="top">
 
-### ⚡ RateSentry — Distributed Rate Limiting Service
+### ⚡ RateLimiter — Spring Boot + Bucket4j + Redis
 
 <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis (Lettuce)" />
 <img src="https://img.shields.io/badge/Bucket4j-59666C?style=flat-square&logo=java&logoColor=white" alt="Bucket4j" />
 <img src="https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
 
-- Built **per-client HTTP rate limiter** using Bucket4j Token Bucket algorithm backed by Redis via Lettuce
-- Integrated **Spring Security filter chain** to intercept pre-controller traffic and reject excess requests with **429 Too Many Requests**
+- Built **per-client IP rate limiter** with Bucket4j token buckets stored in Redis for horizontal scalability
+- Enforced limits via **Spring Security filter chain**, returning **HTTP 429** with retry headers on excess traffic
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati/RateLimiter_SpringBoot)
 
 </td>
 </tr>
@@ -151,6 +151,41 @@ public class JatinHati {
 - **HackerRank Software Engineer Certificate** (2025) — validated proficiency in problem-solving, SQL & REST API development
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 PromptOps — AI DevOps Assistant
+
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring%20AI-1.0.0--M6-0B5FFF?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/OpenAPI-Swagger%20UI-85EA2D?style=flat-square&logo=swagger&logoColor=white" alt="OpenAPI" />
+
+- Built a **Spring Boot + Spring AI** DevOps assistant with RAG, command generation, and session context
+- Routed intents to **AWS operational tools** (EC2/S3/CloudWatch) and exposed REST APIs with Swagger UI
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati/PromptOps)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 TradingSystem — Real-Time Trading Platform
+
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+
+- Implemented **Spring Boot trading engine** with WebSocket streaming, Redis caching, and PostgreSQL persistence
+- Built a **React + Vite** frontend with real-time market charts and state management
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinhati/TradingSystem)
 
 </td>
 </tr>
